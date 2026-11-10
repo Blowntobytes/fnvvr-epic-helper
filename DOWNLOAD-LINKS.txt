@@ -1,0 +1,11 @@
+FNVVR Reborn (mod project)
+  https://github.com/df4l/FNVVR
+
+Epic Games Patcher (each user must download this themselves; do not redistribute it)
+  https://www.nexusmods.com/newvegas/mods/81281
+
+SteamVR (required for the OpenVR backend)
+  https://store.steampowered.com/app/250820/SteamVR/
+
+DirectX End-User Runtime (June 2010), only needed if the helper cannot provide d3dx9_38.dll
+  https://www.microsoft.com/download/details.aspx?id=35
